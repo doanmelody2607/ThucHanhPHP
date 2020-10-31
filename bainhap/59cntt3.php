@@ -7,7 +7,7 @@
 <body>
     <?php
         $var="6 feet"; (int)($var)//=6
-        echo (string)($var);   
+       sadfsakidfhsadnklfsadlk xuan huy;
        $_POST
     ?>
 </body>
