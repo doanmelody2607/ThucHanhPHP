@@ -9,6 +9,7 @@
         $var="6 feet"; (int)($var)//=6
        sadfsakidfhsadnklfsadlk xuan huy;
        $_POST
+       sdkfjhadfkjgfkasdfkjfadsfwihfsdfk doan 
     ?>
 </body>
 </html>
