@@ -7,6 +7,6 @@
 <body>
     Welcome <?php echo $_POST ["name"]; ?> <br>
     Your password is: <?php echo $_POST ["pass"]; ?> <br>
-    Your email is: <?php echo $_POST ["email"]; ?> <br>
+    Your email is: <?php echo $_POST ["email"]; ?>  sd s sd sd ds<br>
 </body>
 </html>
