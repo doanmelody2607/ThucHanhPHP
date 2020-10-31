@@ -13,7 +13,7 @@ table {
         $blank = "";
         if (isset($_POST['submit']))
         {
-            $blank = "*Trường này không được bỏ trống";
+            $blank = "*Trường này không được bỏádfhasdfjasd trống";
             $error = "*Nhập sai vui lòng nhập lại";
             $n = $_POST['n'];
             
