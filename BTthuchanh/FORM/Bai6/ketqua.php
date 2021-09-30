@@ -134,6 +134,7 @@
           </div> 
         </div>
 
+        <!-- Back to the front-page -->
         <a href="javascript:window.history.back(-1);">Trở về trang trước</a>
     </form>
     

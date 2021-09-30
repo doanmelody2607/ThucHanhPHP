@@ -36,7 +36,7 @@
         <h2>PHÉP TÍNH TRÊN 2 SỐ</h2>
     </div>
 
-    <form class="form-tinhtoan" action="bai6_ketqua.php" method="post" style="width:70%; margin-left:100px" >
+    <form class="form-tinhtoan" action="ketqua.php" method="post" style="width:70%; margin-left:100px" >
         <div class="form-group">
             <label>Chọn phép tính:</label>
             <div>
